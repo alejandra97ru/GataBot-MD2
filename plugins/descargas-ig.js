@@ -52,5 +52,3 @@ handler.limit = 2
 handler.exp = 70
 
 export default handler
-
-export default handler
